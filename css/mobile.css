@@ -1,0 +1,160 @@
+@media screen and (max-width: 768px) {
+  header {
+    width: 100%;
+    height: 56px;
+  }
+
+  .header-list {
+    width: 100%;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .web-header,
+  .studio-header {
+    display: block;
+    margin-top: -7px
+  }
+
+.page-menu-list {
+  width: 100px;
+  margin-right: 100px;
+  }
+
+.address {
+    display: block;
+    margin-top: -20px;
+  }
+
+  .section-1 {
+    width: 100%;
+    height: 432px;
+    font-size: 36px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .section-1-text {
+    width: 100%;
+    height: 160px;
+  }
+
+  .section-1-button {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .section-2-general {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+  }
+
+  .section-2-title {
+    height: 24px;
+  }
+
+  .section-2-text {
+    height: 72px;
+  }
+
+  .section-2-icon-backgrounds {
+    display: flex;
+  }
+
+  .section-2-icons {
+    display: none;
+  }
+
+  .section-3 {
+    height: 2233px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .our-team {
+    margin-bottom: 30px;
+  }
+
+  .section-3-general {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .section-4 ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .section-4 img {
+    max-width: 288px;
+    width: 100%;
+  }
+
+  .section-4-hover {
+    max-width: 288px;
+    width: 100%;
+  }
+
+  .section-4-text {
+    max-width: 200px;
+    width: 100%;
+  }
+
+  footer {
+    height: 664px;
+    border: 1px solid #2e2f42;
+    padding: 50px;
+    margin: 0 auto;
+  }
+
+  .footer {
+    display: block;
+  }
+
+  .web-footer {
+    margin-left: 65px;
+  }
+
+  .social-media-webside {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 72px 20px;
+  }
+
+  .modal-window-footer-container {
+    width: 100%;
+    display: flex;
+    text-align: center;
+  }
+
+  .footer-email {
+    height: 40px;
+  }
+
+  .subscribe-button {
+    left: 0px;
+    top: 40px;
+  }
+
+  .icon-paper-plane {
+    top: 10px;
+    right: -30px;
+  }
+
+  .footer-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
